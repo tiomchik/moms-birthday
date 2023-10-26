@@ -1,0 +1,25 @@
+{
+  "name": "happy-birthday-to-mother",
+  "version": "1.0.0",
+  "description": "Birthday greetings website:D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "birthday",
+    "html",
+    "css",
+    "scss",
+    "sass",
+    "holiday",
+    "greeting",
+    "congratulations"
+  ],
+  "author": "tyoma",
+  "license": "ISC",
+  "dependencies": {
+    "rfs": "^10.0.0",
+    "sass": "^1.69.4"
+  }
+}
